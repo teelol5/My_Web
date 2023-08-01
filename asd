@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AmogAss</title>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Click My Ass</h1>
+    <a title="Click here" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://media.tenor.com/dEpZxRPM2D0AAAAC/booty-among-us.gif" alt="AmogAss">
+    </a>
+    <div>
+
+    </div>
+</body>
+</html>
